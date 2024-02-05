@@ -1,0 +1,5 @@
+Pelicula,Comedia Romantica,4,2001,145,Bridget Jones's Diary,65478
+Pelicula,Terror,3,2023,145,Five Nights at Freddy's,76208
+Serie,Comedia Romantica,4,2020,40,Emily in Paris,66637,10,3
+Serie,Drama,5,2010,45,Suits,72629,10,9
+Serie,Misterio,5,2022,55,Merlina,54777,8,1
